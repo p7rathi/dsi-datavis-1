@@ -1,21 +1,19 @@
-# dsi-datavis-1
-# I'm A H1
-## I'm A H2
-### I'm A H3
-#### I'm A H4
-##### I'm A H5
-###### I'm A H6
+# I'M A H1
+## I'M A H2
+### I'M A H3
+#### I'M A H4
+##### I'M A H5
+###### I'M A H6
 
 I'm a normal paragraph text.
 
-![I'm a gif] (https://giphy.com/gifs/monkey-gorilla-uIzOXILP1giw8/fullscreen)
+![I'm an image](https://cataas.com/cat)
 
-![I'm a webpage] (https://www.readersdigest.ca/home-garden/pets/6-things-know-owning-puppy/)
+![I can even be a gif](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
-[Links are made like this, heres the DSI homepage] (https://dsi.sva.edu)
+[links are made like this, here's the DSI homepage](https://dsi.sva.edu/)
 
 | column 1 | column 2 | column 3 |
-|----------|----------|----------|
-| wow!     | such!    |beautiful!|
-| weather! | sunny!   | rainy!   |
-
+| -------- | ---------| -------- |
+| wow!     | such!    | yay!     |
+| weather! | sun!     | blue!    |
